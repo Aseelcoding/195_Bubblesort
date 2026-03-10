@@ -75,7 +75,8 @@ void display()
         cout << arr[j]; // display array element
         if (j < n - 1)
         {
-            cout << "-->";
+            //update 
+            cout << " → ";
         }
     }
     cout << endl;
