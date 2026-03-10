@@ -88,6 +88,12 @@ void display()
 
 int main()
 {
+    cout << "=====================================" << endl;
+cout << "      BUBBLE SORT VISUALIZATION      " << endl;
+    
+cout << "=====================================" << endl;
+cout << endl;
+    
     input();
     bubblesortArray();
     display();
